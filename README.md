@@ -4,8 +4,8 @@
 - 📫 Entre em contato comigo se quiser: contato@backendcore.io
 
 <div align="left">
-  <a href="https://github.com/backendcore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=backendcore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/felipinheiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendcore&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/felipepinheirocosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://anchor.fm/backendcore" target="_blank"><img src="https://img.shields.io/badge/-Podcast-2F3136?style=for-the-badge&logo=podcast&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/backendcore/backendcore/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/felipinheiro/backendcore/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
