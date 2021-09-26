@@ -31,10 +31,11 @@
   <a href="https://www.linkedin.com/in/felipepinheirocosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://anchor.fm/backendcore" target="_blank"><img src="https://img.shields.io/badge/-Podcast-2F3136?style=for-the-badge&logo=podcast&logoColor=white" target="_blank"></a> 
   
- 
+ ![Snake animation](https://github.com/backendcore/backendcore/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
-  ![Snake animation](https://github.com/backendcore/backendcore/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **backendcore/backendcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
