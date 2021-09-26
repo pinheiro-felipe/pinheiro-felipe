@@ -1,4 +1,4 @@
-### 👋 Opa, beleza! Eu sou, Felipe Pinheiro, criador do backendcore. 
+### 👋 Opa, beleza! Eu sou, Felipe Pinheiro, criador do backendcore.io. 
 
 - 🌱 Sempre estudando cyber security, programação e hacking
 - 📫 Entre em contato comigo se quiser: contato@backendcore.io
