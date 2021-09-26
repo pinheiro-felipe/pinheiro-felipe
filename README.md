@@ -4,9 +4,9 @@
 - 📫 Entre em contato comigo se quiser: contato@backendcore.io
 
 <div align="left">
-  <a href="https://github.com/felipinheiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipinheiro&layout=compact&langs_count=7&theme=dark"/>-->
+  <a href="https://github.com/pinheirofelipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinheirofelipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinheirofelipe&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
 <!--<div style="display: inline_block"><br>
@@ -28,16 +28,16 @@
  <a href="https://discord.gg/N95HY5YSAj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://www.facebook.com/backendcore/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-395693?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@backendcore.io"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipepinheirocosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pinheirofelipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://anchor.fm/backendcore" target="_blank"><img src="https://img.shields.io/badge/-Podcast-2F3136?style=for-the-badge&logo=podcast&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/felipinheiro/backendcore/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/pinheirofelipe/pinheirofelipe/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
   
 <!--
-**felipinheiro/felipinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pinheirofelipe/pinheirofelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
