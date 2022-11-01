@@ -1,7 +1,7 @@
 ### 👋 Opa, beleza! Eu sou, Felipe Pinheiro, criador da comunidade backendcore no discord, para apaixonados por cyber security, programação e hacking. 
 
 - 🌱 Sempre estudando cyber security, programação e hacking
-- 📫 Entre em contato comigo se quiser: contato@backendcore.io
+- 📫 Entre em contato comigo se quiser: contato@felipepinheiro.com.br
 
 <div align="left">
   <a href="https://github.com/pinheiro-felipe">
