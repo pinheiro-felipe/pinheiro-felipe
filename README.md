@@ -1,4 +1,4 @@
-### 👋 Opa, beleza! Eu sou, Felipe Pinheiro, criador da comunidade backendcore no discord, para apaixonados por cyber security, programação e hacking. 
+### 👋 Sou Felipe Pinheiro, desenvolvedor curioso com perfil investigativo. Sei como o início na área de pentest pode ser confuso e solitário, já passei por isso. Foi justamente essa experiência que me motivou a compartilhar aqui no GitHub minha jornada, aprendizados e descobertas, para ajudar quem também está nessa caminhada. Se você está estudando por conta própria, perdido entre tantos cursos e sem saber por onde começar, este espaço é pra você.
 
 - 🌱 Sempre estudando cyber security, programação e hacking
 - 📫 Entre em contato comigo se quiser: contato@felipepinheiro.com.br
