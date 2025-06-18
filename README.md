@@ -21,21 +21,7 @@
 </div>-->
   
  ##
-  
-<div> 
-  <a href="https://www.youtube.com/channel/UCNgwVnEvdOvA5hgpajiC_3g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/backendcore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/N95HY5YSAj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href="https://www.facebook.com/backendcore/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-395693?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@backendcore.io"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pinheirofelipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://anchor.fm/backendcore" target="_blank"><img src="https://img.shields.io/badge/-Podcast-2F3136?style=for-the-badge&logo=podcast&logoColor=white" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/pinheiro-felipe/pinheiro-felipe/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-  
+   
 <!--
 **pinheiro-felipe/pinheiro-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
