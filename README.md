@@ -21,7 +21,14 @@
 </div>-->
   
  ##
-   
+  
+<div> 
+ 
+ ![Snake animation](https://github.com/pinheiro-felipe/pinheiro-felipe/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+  
 <!--
 **pinheiro-felipe/pinheiro-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
